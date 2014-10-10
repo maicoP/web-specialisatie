@@ -1,3 +1,17 @@
 Week1:
 tutorial beginnen zien over drupal heb nu 10 filmpjes gezien van onderstaande reeks:
 https://www.youtube.com/playlist?list=PL15BE2E8313A4E809
+en aan demo site gewerkt
+
+Week2:
+volgende 10 tutorials gezien van de reeks en aan demo site gewerkt.
+geleerd :hoe je een module moet installeren, over wat blocks zijn geleerd, 
+over menus geleerd en hoe je zelf 1 maakt, hoe je een custom home pagina maakt,
+hoe je een custum image type maakt en hoe je een wysiwig instaleerd.
+
+Week3:
+verdere tutorials gevolgd en aan demo site gewerkt
+geleerd hoe je een contact formolier maakt met webform
+
+Week5:
+tutorials bekeken
