@@ -11,7 +11,23 @@ hoe je een custum image type maakt en hoe je een wysiwig instaleerd.
 
 Week3:
 verdere tutorials gevolgd en aan demo site gewerkt
-geleerd hoe je een contact formolier maakt met webform
+geleerd hoe je een contact formolier maakt met webform.
+
+Week4:
+tutorials drupal bekeken.
 
 Week5:
 tutorials bekeken
+portfolio site beginnen maken in drupal
+
+Week6:
+presentatie voor week 1 gemaakt.
+
+Periode 2
+
+Week1:
+Expression engine beginnen uitpluisen eerste paar channels en channelfields aangemaakt.
+
+Week2:
+in Expression engine eerste paar templates beginnen maken voor portfolio en eerste data
+ uitgelezen voor blog.
